@@ -15,6 +15,9 @@ Connected-component labelling groups pixels based on their pixel intensity and c
             - add neighouring pixels to queue
     - increase label by 1
  
+ 
+
+
 
 Original Image:
 
